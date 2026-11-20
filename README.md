@@ -1,11 +1,10 @@
-# 02
+# Tlacitko
 
 ## Účel/Zadání/Funkce
 
-* parní mlátička s elektronickým vstřikováním
-    * pára
-    * píst
-    * mikroprocesor
+* Tlacitko reaguje na hranu
+* pri uvolneni tlacitka se prepne svit LED diody
+   
 
 
 ## Schéma zapojení
