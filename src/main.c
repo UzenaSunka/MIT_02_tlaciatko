@@ -13,7 +13,6 @@ void init(void)
     GPIO_Init(DB_S1_PORT,DB_S1_PIN,GPIO_MODE_IN_PU_NO_IT);
 }
 
-
 int main(void)
 {
     init();
@@ -26,7 +25,7 @@ int main(void)
             if (PUSH(DB_S1) && !s0) {
                 REVERSE(DB_LED1);
             }
-
+//proc mi nefunguje comit
             s0 = PUSH(DB_S1);
         }
     }

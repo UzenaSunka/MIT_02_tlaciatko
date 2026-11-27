@@ -13,7 +13,7 @@
 
 ## Popis funkce
 
-1. 
+1. nefunguje mi commit
 
 ## ToDo
 
