@@ -13,8 +13,7 @@
 
 ## Popis funkce
 
-1. ono se to
-2. samo se to
+1. 
 
 ## ToDo
 
